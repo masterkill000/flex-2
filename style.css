@@ -1,0 +1,30 @@
+*{
+
+}
+
+.head1{
+    width: auto;
+    height: 50px;
+    background-color: purple;
+}
+.head2{
+    margin: 10px;
+    background-color: aqua;
+}
+.head3{
+    margin: 10px;
+    background-color: aqua;
+}
+.button1{
+margin: 10px;
+padding: 10px;
+background-color: aqua;
+}
+.button2{
+    margin: 10px;
+    padding: 10px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
